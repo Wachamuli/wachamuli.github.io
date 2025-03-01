@@ -1,5 +1,7 @@
 # Tech Industry and Their Fauna
 
+![_](./bros.jpg)
+
 We all know about Silicon Valley—the so-called pinnacle of progress, full of "innovative and creative minds" destined to lead humanity to a better future. Or at least, that's what they’ve sold us. Like any other industry, it's all about sales, and Silicon Valley has perfected the art of selling dreams.
 
 Just take a look at the people behind these big tech companies, self-proclaimed geniuses who have mastered the art of profiting off their workers while convincing clueless investors that they are shaping the future. These masterminds are more than just corporate leaders; they are cultural icons, thanks to their carefully curated public personas. Steve Jobs, Elon Musk, Mark Zuckerberg—the tech world's pantheon of messiahs, all shrouded in a cult of personality that makes them seem larger than life.
@@ -39,4 +41,3 @@ At the core of their delusion is the belief that technology alone can solve all 
 So what’s the takeaway here? Tech bros are, at best, delusional optimists and, at worst, hypocritical grifters. They brand themselves as visionaries while exploiting their employees, sell philanthropy while dodging taxes, and preach innovation while churning out the same ad-driven platforms wrapped in new buzzwords.
 
 The next time one of them tries to sell you on "the future," take a step back and ask: who is really benefiting from this? Because, spoiler alert—it’s probably not you.
-
