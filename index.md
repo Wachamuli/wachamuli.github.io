@@ -1,6 +1,6 @@
 # Tech Industry and Their Fauna
 
-![_](./bros.jpg)
+<img src="bros.jpg" alt="drawing" width="100%"/>
 
 We all know about Silicon Valley—the so-called pinnacle of progress, full of "innovative and creative minds" destined to lead humanity to a better future. Or at least, that's what they’ve sold us. Like any other industry, it's all about sales, and Silicon Valley has perfected the art of selling dreams.
 
